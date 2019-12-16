@@ -327,96 +327,96 @@ ul#nav li.current a { color: #F06000; }
  */
 /* .photoshop {
 /*   	width: 30%; */
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+/*   	-moz-animation: photoshop 2s ease;
+  	-webkit-animation: photoshop 2s ease; */
 } */
 /* .angular {
 /*   	width: 45%; */
 /*   	-moz-animation: Angular 2s ease;
   	-webkit-animation: Angular 2s ease;
 } */
-.nodejs {
+/* .nodejs {
 /*   	width: 40%; */
-  	-moz-animation: Nodejs 2s ease;
+/*   	-moz-animation: Nodejs 2s ease;
   	-webkit-animation: Nodejs 2s ease; */
-}
-.css {
+/* } */
+/* .css { */
 /*   	width: 50%; */
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-.html5 {
+/*   	-moz-animation: css 2s ease;
+  	-webkit-animation: css 2s ease; */
+} */
+/* .html5 { */
 /*   	width: 50%; */
-  	-moz-animation: html5 2s ease;
+/*   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
-}
-.reactjs {
+} */
+/* .reactjs {
 /*   	width: 30%; */
-  	-moz-animation: Reactjs 2s ease;
-  	-webkit-animation: Reactjs 2s ease;  
-}
-.mongodb {
+/*   	-moz-animation: Reactjs 2s ease;
+  	-webkit-animation: Reactjs 2s ease;   */ */
+} */
+/* .mongodb {
 /*    width: 40%; */
-   -moz-animation: MongoDb 2s ease;
-   -webkit-animation: MongoDb 2s ease;  
-}
-@-moz-keyframes MongoDb {
+/*    -moz-animation: MongoDb 2s ease;
+   -webkit-animation: MongoDb 2s ease;   */
+} */
+/* @-moz-keyframes MongoDb {
    0%   { width: 0px;  }
    100% { width: 40%;  }
- }
-@-moz-keyframes photoshop {
+ } */
+/* @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 30%;  }
-}
-@-moz-keyframes Angular {
+} */
+/* @-moz-keyframes Angular {
   0%   { width: 0px;  }
   100% { width: 45%;  }
-}
-@-moz-keyframes Nodejs {
+} */
+/* @-moz-keyframes Nodejs {
   0%   { width: 0px;  }
   100% { width: 40%;  }
-}
-@-moz-keyframes css {
+} */
+/* @-moz-keyframes css {
   0%   { width: 0px;  }
   100% { width: 50%;  }
-}
-@-moz-keyframes html5 {
+} */
+/* @-moz-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
-}
-@-moz-keyframes Reactjs {
+} */
+/* @-moz-keyframes Reactjs {
   0%   { width: 0px;  }
   100% { width: 40%;  }
-}
+} */
 
-@-webkit-keyframes MongoDb {
+/* @-webkit-keyframes MongoDb {
    0%   { width: 0px;  }
    100% { width: 40%;  }
-}
-@-webkit-keyframes photoshop {
+} */
+/* @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 30%;  }
-}
-@-webkit-keyframes Angular {
+} */
+/* @-webkit-keyframes Angular {
   0%   { width: 0px;  }
   100% { width: 45%;  }
-}
-@-webkit-keyframes Nodejs {
+} */
+/* @-webkit-keyframes Nodejs {
   0%   { width: 0px;  }
   100% { width: 40%;  }
-}
-@-webkit-keyframes css {
+} */
+/* @-webkit-keyframes css {
   0%   { width: 0px;  }
   100% { width: 50%;  }
-}
-@-webkit-keyframes html5 {
+} */
+/* @-webkit-keyframes html5 {
   0%   { width: 0px;  }
   100% { width: 50%;  }
-}
-@-webkit-keyframes Reactjs {
+} */
+/* @-webkit-keyframes Reactjs {
   0%   { width: 0px;  }
   100% { width: 40%;  }
-}
+} */
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
