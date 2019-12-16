@@ -325,20 +325,20 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
  */
-.photoshop {
+/* .photoshop {
 /*   	width: 30%; */
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
-}
-.angular {
+} */
+/* .angular {
 /*   	width: 45%; */
-  	-moz-animation: Angular 2s ease;
+/*   	-moz-animation: Angular 2s ease;
   	-webkit-animation: Angular 2s ease;
-}
+} */
 .nodejs {
 /*   	width: 40%; */
   	-moz-animation: Nodejs 2s ease;
-  	-webkit-animation: Nodejs 2s ease;
+  	-webkit-animation: Nodejs 2s ease; */
 }
 .css {
 /*   	width: 50%; */
