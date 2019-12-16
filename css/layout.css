@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .photoshop {
-  	width: 30%;
+/*   	width: 30%; */
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
@@ -336,12 +336,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: Angular 2s ease;
 }
 .nodejs {
-  	width: 40%;
+/*   	width: 40%; */
   	-moz-animation: Nodejs 2s ease;
   	-webkit-animation: Nodejs 2s ease;
 }
 .css {
-  	width: 50%;
+/*   	width: 50%; */
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -351,12 +351,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .reactjs {
-  	width: 30%;
+/*   	width: 30%; */
   	-moz-animation: Reactjs 2s ease;
   	-webkit-animation: Reactjs 2s ease;  
 }
 .mongodb {
-   width: 40%;
+/*    width: 40%; */
    -moz-animation: MongoDb 2s ease;
    -webkit-animation: MongoDb 2s ease;  
 }
